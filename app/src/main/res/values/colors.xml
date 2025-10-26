@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta personalizada de tu app -->
+    <color name="orange_500">#FF9800</color> <!-- Naranja para botones -->
+    <color name="gray_dark">#121212</color>  <!-- Fondo oscuro -->
+    <color name="gray_light">#E0E0E0</color> <!-- Texto o bordes claros -->
+</resources>
